@@ -44,4 +44,4 @@ Desenvolvedor front-end com experiência realizando projetos de Landing Pages, T
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jumaelmartins}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9c2e&height=120&section=footer"/>
