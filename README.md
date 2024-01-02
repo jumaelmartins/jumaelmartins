@@ -19,7 +19,8 @@
 ### Sobre
 
 <p>
-Desenvolvedor front-end com experiência realizando projetos de Landing Pages, Todo List, Calculadora IMC. paginas responsivas, consumo de APIs.
+  Desenvolvedor com foco em front-end experiência realizando projetos de Landing Pages, Todo List, Calculadora IMC. paginas responsivas, consumo de APIs.
+  Alem disso possuo experiencia com Macros em VBA, Automações de Processos com Python utilizando, selenium, Pyautogui e Pandas.
 </p>
 
 
@@ -34,9 +35,9 @@ Desenvolvedor front-end com experiência realizando projetos de Landing Pages, T
 ### Próximas Tecnologias a serem dominadas.
 
 <div style="display: inline_block"> </br>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="HTML Logo">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="CSS Logo">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="JavaScript Logo">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="Node Logo">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="Typescript Logo">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="React Logo">
 </div> </br>
 
  <div align="center">
