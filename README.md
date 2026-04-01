@@ -1,24 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9c2e&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=145efc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9c2e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Jumael+Martins;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=145efc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Jumael+Martins;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jumaelmartins&show_icons=true&count_private=true&hide_border=true&title_color=ff9c2e&icon_color=ff9c2e&text_color=c9d1d9&bg_color=0d1117" alt="Jumael Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaelmartins&layout=compact&hide_border=true&title_color=ff9c2e&text_color=00bfbf&bg_color=0d1117" />
-</div>
+---
+## Sobre Mim
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jumaelmartins&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumael-martins/)
-
-### Sobre
-
-<p>
-💻 Desenvolvedor **Full Stack** apaixonado por tecnologia, automação e desenvolvimento de soluções escaláveis.  
-Atualmente trabalho com **NodeJS, ReactJS, Python e RPA**, criando sistemas que aumentam a eficiência e reduzem custos.
-</p>
+- 💻 Desenvolvedor Fullstack focado em aplicações web escaláveis
+- 🚀 Construindo soluções reais com automação, APIs e dashboards
+- 📊 Experiência prática com sistemas de gestão, dados e integrações complexas
+- 🔭 Desenvolvendo um SaaS de automação de WhatsApp (ZapFlow)
+- ⚙️ Experiência com APIs REST, arquitetura backend e dashboards analíticos
+- 📊 Atuação fullstack em sistemas com dados em tempo real (telecom)
+- 💡 Focado em transformar problemas operacionais em soluções automatizadas  
 
 ---
 
@@ -52,6 +45,33 @@ Atualmente trabalho com **NodeJS, ReactJS, Python e RPA**, criando sistemas que 
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=fff)
 
 ---
+## 🚀 Projeto em destaque (SaaS em desenvolvimento)
+
+🌐 Demonstração (Beta)
+
+👉 Acesse: [http://beta.jmtechsolutions.com.br]
+
+- 🚧 Versão em desenvolvimento ativo
+- 🔒 Algumas funcionalidades ainda estão sendo evoluídas
+- 💬 Feedbacks são bem-vindos
+
+💡 O que resolve
+Atendimento manual não escalável
+Complexidade de integração com WhatsApp
+Falta de estrutura em vendas via chat
+- ⚙️ O que entrega
+- 🧠 Flow builder visual (chatbots dinâmicos)
+- 🛒 Carrinho e pedidos dentro do WhatsApp
+- 💰 Pagamento via PIX integrado
+- 🤖 IA contextual com dados reais do negócio
+-🔌 Integração via Evolution API (Baileys)
+- 📌 Casos de uso
+- E-commerce via WhatsApp
+- Atendimento automatizado
+- Rastreamento de pedidos
+- Assistente inteligente com contexto real
+
+---
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jumael-martins/)  
 📧 **Email:** jumaelmartins@gmail.com 
@@ -59,7 +79,15 @@ Atualmente trabalho com **NodeJS, ReactJS, Python e RPA**, criando sistemas que 
 ---
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9c2e&height=120&section=footer"/>
+## 🎯 Objetivo
+
+Construir soluções que:
+
+- Automatizam processos reais
+- Escalam operações
+- Geram impacto direto no negócio
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=145efc&height=120&section=footer"/>
 
 
 
